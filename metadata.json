@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Stream",
+  "description": "Direktori dan pemutar live streaming TV Indonesia dan internasional berbasis playlist IPTV M3U dengan dukungan HLS dan MPEG-DASH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
